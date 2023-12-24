@@ -1,0 +1,15 @@
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\bin\Debug\net6.0\AcademyDataAccess.deps.json
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\bin\Debug\net6.0\AcademyDataAccess.dll
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\bin\Debug\net6.0\AcademyDataAccess.pdb
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.csproj.CopyComplete
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.dll
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\refint\AcademyDataAccess.dll
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\AcademyDataAccess.pdb
+C:\Users\Pc\source\repos\Academy\AcademyDataAccess\obj\Debug\net6.0\ref\AcademyDataAccess.dll
