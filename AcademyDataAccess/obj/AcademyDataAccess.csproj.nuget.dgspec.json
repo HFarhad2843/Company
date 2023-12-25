@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj": {}
+    "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj": {
+    "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj",
         "projectName": "Academy.Core",
-        "projectPath": "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj",
+        "projectPath": "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\Academy.Core\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\Academy.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj": {
+    "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj",
         "projectName": "AcademyDataAccess",
-        "projectPath": "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj",
+        "projectPath": "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\AcademyDataAccess\\AcademyDataAccess.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\AcademyDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\AcademyDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj": {
-                "projectPath": "C:\\Users\\Pc\\source\\repos\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj"
+              "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj": {
+                "projectPath": "C:\\Users\\Pc\\source\\repos\\Console\\Academy\\Academy\\Academy.Core\\Academy.Core.csproj"
               }
             }
           }
